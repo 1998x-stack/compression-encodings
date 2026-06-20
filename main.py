@@ -23,6 +23,12 @@ ENCODER_MODULES = [
     "arithmetic.encoder",
     "lzw.encoder",
     "bwt.encoder",
+    "lz77.encoder",
+    "lzss.encoder",
+    "deflate.encoder",
+    "range_coding.encoder",
+    "tunstall.encoder",
+    "bwt_huff.encoder",
 ]
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
