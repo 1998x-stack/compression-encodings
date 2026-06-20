@@ -1,4 +1,5 @@
 # Compressed output (generated files)
+output/*.bin
 output/*.huff
 
 # Python
@@ -21,3 +22,6 @@ venv/
 
 # Data files (large text corpora)
 data/*.txt
+
+# Legacy
+huffman/main.py

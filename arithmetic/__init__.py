@@ -1,0 +1,1 @@
+# Arithmetic Coding compression module
