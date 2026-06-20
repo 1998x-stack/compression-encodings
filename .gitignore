@@ -1,0 +1,23 @@
+# Compressed output (generated files)
+output/*.huff
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Data files (large text corpora)
+data/*.txt
